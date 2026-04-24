@@ -95,7 +95,7 @@ NombreDeMots/
 
 ## 👤 Auteur
 
-Aissatou SALL
+Mamadou SALL
 
 ## 📄 Licence
 
