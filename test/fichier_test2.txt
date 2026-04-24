@@ -1,0 +1,10 @@
+La programmation orientee objet est un paradigme de programmation
+qui utilise des objets et leurs interactions pour concevoir des applications
+
+Les langages comme Java Python et C++ supportent ce paradigme
+
+Un programme bien structure est plus facile a maintenir
+et a faire evoluer au fil du temps
+
+Les commentaires dans le code source sont essentiels
+pour faciliter la comprehension et la maintenance du code
